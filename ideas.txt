@@ -28,3 +28,25 @@ Bad to good css (how would i even do this)
 Downdetector clone
 Pomodoro technique (pomegranate theme?)
 Something with raspberry pi?
+
+
+Sellar- e-commerce app
+Guitar chord API?
+Board Hoard- longboard shop
+React game- it's like super Mario but you're a butterfly so you can fly. Had backend so you can log in and save progress 
+Google machine learning thing? What is this ___?
+
+Game like this https://www.reddit.com/r/badUIbattles/comments/q2nhem/where_are_my_fellow_osu_player_at/?utm_medium=android_app&utm_source=share
+
+
+site that autorates your minecraft build/whatever
+use everypixel API. make it a game? you get x tries to generate y points
+
+
+1. Board Hoard- longboard shop
+Web form features: Add to cart, remove from cart, change cart amount, search
+
+2. Word Search Game- bubbles with letters appear and you have to click them before they disappear to spell out a word
+Web form features: Can sign in to save (high) scores, backend sends words, can change difficulty and backend sends selected difficulty
+
+3. 
