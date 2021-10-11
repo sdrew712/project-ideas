@@ -1,0 +1,30 @@
+Tips for generating ideas:
+
+Make a list of hobbies and interests, and then use that to structure your brainstorming
+Skate
+Insects
+Games
+Music
+Guitar
+
+Make a list of daily activities, and then use that to structure your brainstorming
+Go to meetings
+Nap (sleep app?)
+Walk
+Skate
+Do work
+Video game
+Check phone
+
+Make a list of problems you would like to solve
+How to make decisions
+
+Ask a friend or family member for ideas for an app they had
+Habit tracker
+
+Go use a few of your favorite/most used websites and look for inspiration for something you’d like to build
+
+Bad to good css (how would i even do this)
+Downdetector clone
+Pomodoro technique (pomegranate theme?)
+Something with raspberry pi?
